@@ -3,6 +3,10 @@ A comparison of Stax and the Internet Computer Protocol as it pertains to Bitcoi
 
 ## Languages
 
-| Stacks | ICP |
-| -- | -- |
-| Clarity | All languages that compile to or run on Wasm.<br> Motoko and Rust are most common, but currently there are SDKs for TypeScript, Python, and C++ |
+### Stacks
+
+Clarity.
+
+### ICP
+
+All languages that compile to or run on Wasm.<br> Motoko and Rust are most common, but currently there are SDKs for TypeScript, Python, and C++
