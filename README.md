@@ -22,3 +22,11 @@ All languages that compile to or run on Wasm. Motoko and Rust are most common, b
 | -- | -- | -- | -- | -- | -- |
 | Stacks | ? | ? | ? | ? | ? |
 | ICP | ~2 MiB | ~4 GiB | ? | ~ 48 GiB | ~3 GHz | 
+
+## Decentralization
+
+Who controls the nodes? Who controls updates to the protocol? How large is the set of validators?
+
+## Replication
+
+Similar to decentralization, might not need this section.
