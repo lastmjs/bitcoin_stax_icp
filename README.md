@@ -9,4 +9,4 @@ Clarity.
 
 ### ICP
 
-All languages that compile to or run on Wasm.<br> Motoko and Rust are most common, but currently there are SDKs for TypeScript, Python, and C++
+All languages that compile to or run on Wasm. Motoko and Rust are most common, but currently there are SDKs for TypeScript, Python, and C++.
