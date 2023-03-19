@@ -20,7 +20,7 @@ All languages that compile to or run on Wasm. Motoko and Rust are most common, b
 
 | Blockchain | Binary Size | Heap | Stack | Storage | CPU |
 | -- | -- | -- | -- | -- | -- |
-| Stacks | ? | ? | ? | ? | ? |
+| Stacks | 100 KiB? | ? | ? | ? | ? |
 | ICP | ~2 MiB | ~4 GiB | ? | ~ 48 GiB | ~3 GHz | 
 
 ## Decentralization
