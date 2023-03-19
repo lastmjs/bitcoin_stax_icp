@@ -3,6 +3,11 @@ A comparison of Stax and the Internet Computer Protocol as it pertains to Bitcoi
 
 ## Languages
 
+| Blockchain | Supported Languages |
+| -- | -- |
+| Stacks | Clarity |
+| ICP | All Wasm-supported languages, currently includes Motoko, Rust, TypeScript, Python, and C++ |
+
 ### Stacks
 
 Clarity.
